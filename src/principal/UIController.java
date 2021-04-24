@@ -14,10 +14,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.layout.AnchorPane;
 
-/**
- *
- * @author Pablo
- */
+
 public class UIController implements Initializable {
     
     @FXML
