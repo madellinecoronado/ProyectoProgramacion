@@ -11,10 +11,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- *
- * @author Pablo
- */
+
 public class AccionesExternas extends Application {
     
     @Override
